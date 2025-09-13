@@ -1,0 +1,7 @@
+[Fri Sep 12 17:37:23 2025] PHP 8.4.2 Development Server (http://127.0.0.1:8080) started
+[Fri Sep 12 17:37:25 2025] 127.0.0.1:41628 Accepted
+[Fri Sep 12 17:37:25 2025] 127.0.0.1:41628 [200]: GET /
+[Fri Sep 12 17:37:25 2025] 127.0.0.1:41628 Closing
+[Fri Sep 12 17:38:20 2025] 127.0.0.1:44990 Accepted
+RWRAP_ERROR[php (7866)] - _rwrap_bind_symbol: Failed to find __res_ninit: libdl.a is a stub --- use libdl.so instead
+
